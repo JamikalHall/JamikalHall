@@ -1,4 +1,4 @@
-Hello! I'm Jamikal (pronounced like juh-michael) and I'm all about cybersecurity and DevOps technology.
+Hello! I'm Jamikal and I'm all about cybersecurity and DevOps technology.
 - 🌱 I’m currently learning a little bit of everything, but I'm focusing on Python and other cybersecurity tools.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jamikal-hall/) and see what I've been learning on my [portfolio site](https://jamikal.xyz).
 
